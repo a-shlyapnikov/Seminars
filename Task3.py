@@ -8,3 +8,4 @@ a = int(input('Введите число N: '))
 #     i+=1
 for i in range(-a, a+1):
     print(i, end = ' ')
+x = 'yoyoyoo'
